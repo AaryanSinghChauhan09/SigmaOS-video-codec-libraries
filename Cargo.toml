@@ -1,0 +1,10 @@
+[package]
+name = "SigmaOS-video-codec-libraries"
+version = "0.1.0"
+edition = "2021"
+license = "Apache-2.0"
+description = "SigmaOS video-codec-libraries component - multimedia"
+
+[lib]
+name = "video_codec_libraries"
+path = "src/lib.rs"
