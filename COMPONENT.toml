@@ -3,7 +3,7 @@ name = "SigmaOS-video-codec-libraries"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "video-codec-libraries component"
+description = "Video Codec Libraries"
 upstream = []
 
 [contract]
